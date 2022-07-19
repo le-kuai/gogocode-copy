@@ -4,7 +4,7 @@
 
 全网最厉害 a认为不是
 全网最厉害 b认为是
-123
+
 ## GoGoCode 是什么？
 
 [English version of README](README.md)
